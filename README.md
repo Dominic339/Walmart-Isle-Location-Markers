@@ -1,2 +1,2 @@
-# Walmart-Isle-Location-Markers
+# Walmart-Aisle-Location-Markers
 This repository includes a collection of replacement isle location marker templates for Walmart locations that do not have the supplies to use traditional markers. All instructions were made with the intention of the user printing them through a fujifilm kiosk as 8x10 photos. They can be printed in other ways, but as 8x10s they will fit perfectly within the isle location sign molds along with a isle location label. While they are not included here, all templates can be adapted to include higher locations such as 300, 301, 400 etc...
